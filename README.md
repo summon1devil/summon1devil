@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Summon1devil here !! 👋
 
 <!--
 **summon1devil/summon1devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=summon1devil&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=summon1devil&icon=1&color=0)](https://visitcount.itsvg.in)
