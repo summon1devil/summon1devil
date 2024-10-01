@@ -2,7 +2,9 @@
 
 
  🔭 I’m currently studying at ... FPT University
+ ---
  🌱 I’m currently learning ... Artificial Intelligence
+ ---
 ⚡ Fun fact: ... want to help the poor when  grow up, but when grow up, be poor :))
 -->
 # 💻Tech Stack
